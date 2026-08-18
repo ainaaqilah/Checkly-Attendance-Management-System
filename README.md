@@ -36,11 +36,6 @@ The system supports **three user roles** with different access levels:
 
 **SharePoint Lists:** `UsersList`, `AttendanceList`, `PublicHolidayList`
 
-## 📸 Screenshots
-
-<!-- Add your app screenshots here, e.g.: -->
-<!-- ![Log Attendance](screenshots/log_attendance.png) -->
-
 ## 📂 Files in this Repository
 
 - `Checkly.msapp` — exported Power Apps application file (open with Power Apps Studio)
@@ -61,9 +56,12 @@ The system supports **three user roles** with different access levels:
 ## 👤 Author
 
 **Ainaa Aqilah binti Hassan Nuddin**
+
 Bachelor of Information Technology (Hons.), Universiti Teknologi MARA
+
 IT Intern, SD Guthrie Research Sdn. Bhd. (March – July 2026)
+
 [GitHub](https://github.com/ainaaqilah)
 
 ---
-*Developed as part of Industrial Training (CST688), supervised by Madam Shahirah Shazana Binti A. Rahman.*
+*Developed as part of Industrial Training (CST688), supervised by Madam Shahirah Shazana Binti A. Rahman (Executive, Software Developer Engineer).*
