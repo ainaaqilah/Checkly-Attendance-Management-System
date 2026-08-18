@@ -36,6 +36,9 @@ The system supports **three user roles** with different access levels:
 
 **SharePoint Lists:** `UsersList`, `AttendanceList`, `PublicHolidayList`
 
+## 📸 Screenshots
+[View the User Interface of the system](Checkly-System-UI-Screenshots.pdf)
+
 ## 📂 Files in this Repository
 
 - `Checkly.msapp` — exported Power Apps application file (open with Power Apps Studio)
