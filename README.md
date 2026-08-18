@@ -37,7 +37,7 @@ The system supports **three user roles** with different access levels:
 **SharePoint Lists:** `UsersList`, `AttendanceList`, `PublicHolidayList`
 
 ## 📸 Screenshots
-[View the User Interface of the system](Checkly-System-UI-Screenshots.pdf)
+[View the User Interface of the system](Checkly-Attendance-Management-System/Checkly-System-UI-Screenshots.pdf)
 
 ## 📂 Files in this Repository
 
