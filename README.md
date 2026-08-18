@@ -43,7 +43,6 @@ The system supports **three user roles** with different access levels:
 
 - `Checkly.msapp` — exported Power Apps application file (open with Power Apps Studio)
 - `docs/Checkly_Technical_Documentation.pdf` — full technical documentation (architecture, data flow, DAX-equivalent business rules, user guide, troubleshooting)
-- `docs/Practical_Training_Report.pdf` — my full internship report covering both Checkly and its analytics dashboard
 
 > **Note:** `.msapp` files can't be previewed directly on GitHub. To view or run the app, import it into [Power Apps Studio](https://make.powerapps.com) (requires a Microsoft/Power Platform account).
 
